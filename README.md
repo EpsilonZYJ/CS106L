@@ -1,1 +1,1 @@
-# CS106L
+# Standford CS106L
